@@ -1,3 +1,3 @@
 # training_git
 
-This is the basic Noe js learning
+This is the basic Node js learning.
